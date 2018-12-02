@@ -1,0 +1,9 @@
+{
+	"cars": [
+		{
+			"hatchback": [{"Maruthi":"Zen"},{"volkswagen":"polo"}],
+			"sedan": [{"Maruthi":"ciaz"},{"volkswagen":"vento"}],
+			"suv": [{"Maruthi":"scross"},{"volkswagen":"tiguan"}]
+		}
+	]
+}
